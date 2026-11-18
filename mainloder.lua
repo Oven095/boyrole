@@ -15,5 +15,5 @@ if PlaceId == 717 then
     end
 
 elseif PlaceId == 104549080643413 then -- MAHANAKHON RACING
-        loadstring(game:HttpGet("https://lua-raw-host.mahanakon.workers.dev/raw/7e22473e-77d2-43dd-b23d-2edcd93c8f7c/main.lua"))()
+        loadstring(game:HttpGet("https://lua-raw-host.mahanakon.workers.dev/raw/fd42f0ae-fa35-4fed-9e7a-24fd5e97b299/main.lua"))()
 end
